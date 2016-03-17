@@ -1,3 +1,9 @@
+---
+services: app-service/web
+platforms: dotnet
+author: cephalin
+---
+
 # ASP.NET sample for Azure App Service
 
 This is an ASP.NET MVC web app that you can deploy to Azure App Service using Git. 
